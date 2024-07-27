@@ -1,0 +1,22 @@
+{
+  "shops": [
+    {
+      "coordinate": [40.712776, -74.005974],
+      "id": "shop1",
+      "name": "Shop One",
+      "priceList": {
+        "product1": "10.00",
+        "product2": "15.00"
+      }
+    },
+    {
+      "coordinate": [34.052235, -118.243683],
+      "id": "shop2",
+      "name": "Shop Two",
+      "priceList": {
+        "product1": "12.00",
+        "product2": "18.00"
+      }
+    }
+  ]
+}
