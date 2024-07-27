@@ -1,12 +1,14 @@
 {
-  "shops": [
+   "shops": [
     {
       "coordinate": [40.712776, -74.005974],
       "id": "shop1",
       "name": "Shop One",
       "priceList": {
-        "product1": "10.00",
-        "product2": "15.00"
+        "VX67SKY": "10.00",
+        "HB32FIV": "12.00",
+        "MQ19VLZ": "15.00",
+        "IZ42MFF": "20.00"
       }
     },
     {
@@ -14,8 +16,21 @@
       "id": "shop2",
       "name": "Shop Two",
       "priceList": {
-        "product1": "12.00",
-        "product2": "18.00"
+        "VX67SKY": "11.00",
+        "AS28PKO": "13.00",
+        "VT86PFF": "16.00",
+        "BR07GWP": "21.00"
+      }
+    },
+    {
+      "coordinate": [51.507351, -0.127758],
+      "id": "shop3",
+      "name": "Shop Three",
+      "priceList": {
+        "EX69LWS": "18.00",
+        "HB32FIV": "14.00",
+        "MQ19VLZ": "17.00",
+        "IZ42MFF": "22.00"
       }
     }
   ]
